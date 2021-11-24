@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "479412951681",
+    "project_id": "productsluna-8a922",
+    "storage_bucket": "productsluna-8a922.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479412951681:android:28abdf0ad6ea463dbb4b80",
+        "android_client_info": {
+          "package_name": "com.example.productslunagerardo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479412951681-usvnstl4m9uit26ul3hk2e299oeia68t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCD_YXeqSn5o8dq8ir4kiK0EzoeslmN68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479412951681-usvnstl4m9uit26ul3hk2e299oeia68t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
